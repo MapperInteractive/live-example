@@ -1,1 +1,1 @@
-mappercore==1.0
+mappercore==1.1.1
