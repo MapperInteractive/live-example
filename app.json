@@ -2,6 +2,6 @@
     "name": "Mapper Example",
     "description": "A example of mapper core",
     "repository": "https://github.com/yaodong/mapper-example",
-    "logo": "https://node-js-sample.herokuapp.com/node.png",
+    "logo": "https://github.com/yaodong/mapper-example/blob/master/icon.png?raw=true",
     "keywords": ["mapper", "visualization"]
   }
