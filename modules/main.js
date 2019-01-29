@@ -33,7 +33,7 @@ define(function (require) {
   /**
    * We use a built-in function to convert edge list to a D3 graph data set.
    */
-  let EdgeList2Graph = require('core/utils/EdgelistToGraph');
+  let EdgeList2Graph = require('EdgelistToGraph');
 
   mapperInstance.createPane(
     require('core/mapper/panes/FormDataLoader'),
