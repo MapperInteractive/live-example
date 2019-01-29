@@ -1,1 +1,7 @@
-web: python run.py
+{
+    "name": "Mapper Example",
+    "description": "A example of mapper core",
+    "repository": "https://github.com/yaodong/mapper-example",
+    "logo": "https://node-js-sample.herokuapp.com/node.png",
+    "keywords": ["mapper", "visualization"]
+  }
