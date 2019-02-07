@@ -1,5 +1,11 @@
 ## Mapper Example
 
+## Live Demo
+
+[Live Demo](https://mapper-example.herokuapp.com/)
+
+## Deploy It
+
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 ## What's this?
